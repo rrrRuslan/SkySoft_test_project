@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940600536679",
+    "project_id": "skysoft-project",
+    "storage_bucket": "skysoft-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940600536679:android:7f2ecd29cdd31dde446ec2",
+        "android_client_info": {
+          "package_name": "com.example.skysoft_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940600536679-dd4t4s2ikasq5bs6kfa4gsg3tddfvgil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioBe-C3WcmAHM2LRr_T-Vx860ovEmATI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940600536679-dd4t4s2ikasq5bs6kfa4gsg3tddfvgil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
